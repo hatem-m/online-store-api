@@ -1,0 +1,517 @@
+{
+  "users": [
+    {
+      "id": "5cc7",
+      "username": "hatem",
+      "email": "hatem@gmail.com",
+      "password": "1973"
+    },
+    {
+      "id": "b9b1",
+      "username": "ali",
+      "email": "ali1@gmail.com",
+      "password": "ali11"
+    },
+    {
+      "id": "user3",
+      "username": "ahmed",
+      "email": "ahmed@example.com",
+      "password": "ahmed123"
+    },
+    {
+      "id": "user4",
+      "username": "layla",
+      "email": "layla@example.com",
+      "password": "layla123"
+    },
+    {
+      "id": "c5d4",
+      "username": "mohamed-ad",
+      "email": "mohamedad@gmail.com",
+      "password": "0000"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": {
+        "en": "Tower+™ Pure Whey Protein Isolate + Creatine",
+        "ar": "تاور بلس™ بروتين مصل اللبن النقي مع الكرياتين"
+      },
+      "disc": {
+        "en": "Support for Healthy Muscle Growth",
+        "ar": "دعم لنمو العضلات الصحي"
+      },
+      "category": {
+        "en": "Sports Nutrition",
+        "ar": "التغذية الرياضية"
+      },
+      "reviews": [],
+      "totalRatings": 0,
+      "averageRating": 4.2,
+      "offer": {
+        "en": "One time purchase",
+        "ar": "شراء لمرة واحدة"
+      },
+      "price": 25,
+      "dateAdded": "2025-12-18",
+      "totalSold": 120,
+      "inStock": true,
+      "tags": [
+        "protein",
+        "whey",
+        "creatine",
+        "muscle"
+      ]
+    },
+    {
+      "id": "2",
+      "name": {
+        "en": "PowerFuel™ Plant-Based Protein Blend",
+        "ar": "باور فيول™ مزيج بروتين نباتي"
+      },
+      "disc": {
+        "en": "Vegan-friendly protein for recovery and energy",
+        "ar": "بروتين صديق للنباتيين للتعافي والطاقة"
+      },
+      "category": {
+        "en": "Sports Nutrition",
+        "ar": "التغذية الرياضية"
+      },
+      "reviews": [],
+      "totalRatings": 0,
+      "averageRating": 4,
+      "offer": {
+        "en": "Subscribe & save 15%",
+        "ar": "اشترك واحصل على خصم 15%"
+      },
+      "price": 28,
+      "dateAdded": "2025-12-17",
+      "totalSold": 85,
+      "inStock": true,
+      "tags": [
+        "vegan",
+        "plant-based",
+        "protein",
+        "recovery"
+      ]
+    },
+    {
+      "id": "3",
+      "name": {
+        "en": "FlexCore™ BCAA + Electrolytes",
+        "ar": "فليكس كور™ بي سي إيه إيه مع الإلكتروليتات"
+      },
+      "disc": {
+        "en": "Enhances endurance and reduces muscle fatigue",
+        "ar": "يعزز التحمل ويقلل من إجهاد العضلات"
+      },
+      "category": {
+        "en": "Sports Nutrition",
+        "ar": "التغذية الرياضية"
+      },
+      "reviews": [],
+      "totalRatings": 0,
+      "averageRating": 0,
+      "offer": {
+        "en": "Buy 2, Get 1 Free",
+        "ar": "اشترِ 2 واحصل على الثالث مجانًا"
+      },
+      "price": 22,
+      "dateAdded": "2025-12-16",
+      "totalSold": 210,
+      "inStock": true,
+      "tags": [
+        "bcaa",
+        "electrolytes",
+        "endurance",
+        "workout"
+      ]
+    },
+    {
+      "id": "4",
+      "name": {
+        "en": "IronEdge™ Mass Gainer Complex",
+        "ar": "آيرن إيدج™ مكمل لاكتساب الكتلة العضلية"
+      },
+      "disc": {
+        "en": "High-calorie formula for lean muscle gain",
+        "ar": "تركيبة عالية السعرات لاكتساب العضلات النحيفة"
+      },
+      "category": {
+        "en": "Sports Nutrition",
+        "ar": "التغذية الرياضية"
+      },
+      "reviews": [],
+      "totalRatings": 0,
+      "averageRating": 0,
+      "offer": {
+        "en": "Free shaker with purchase",
+        "ar": "خلاط مجاني مع الشراء"
+      },
+      "price": 35,
+      "dateAdded": "2025-12-15",
+      "totalSold": 65,
+      "inStock": true,
+      "tags": [
+        "mass",
+        "gainer",
+        "calories",
+        "muscle"
+      ]
+    },
+    {
+      "id": "5",
+      "name": {
+        "en": "NitroPeak™ Pre-Workout Igniter",
+        "ar": "نيترو بيك™ محفز قبل التمرين"
+      },
+      "disc": {
+        "en": "Explosive energy and mental focus",
+        "ar": "طاقة انفجارية وتركيز ذهني"
+      },
+      "category": {
+        "en": "Sports Nutrition",
+        "ar": "التغذية الرياضية"
+      },
+      "reviews": [],
+      "totalRatings": 0,
+      "averageRating": 0,
+      "offer": {
+        "en": "Limited-time bundle offer",
+        "ar": "عرض محدود الوقت – حزمة متكاملة"
+      },
+      "price": 30,
+      "dateAdded": "2025-12-14",
+      "totalSold": 180,
+      "inStock": true,
+      "tags": [
+        "pre-workout",
+        "energy",
+        "focus",
+        "nitric"
+      ]
+    },
+    {
+      "id": "6",
+      "name": {
+        "en": "RecoverMax™ Post-Workout Recovery",
+        "ar": "ريكفر ماكس™ مكمل للتعافي بعد التمرين"
+      },
+      "disc": {
+        "en": "Speeds up muscle recovery and reduces soreness",
+        "ar": "يسرع من تعافي العضلات ويقلل الآلام"
+      },
+      "category": {
+        "en": "Sports Nutrition",
+        "ar": "التغذية الرياضية"
+      },
+      "reviews": [],
+      "totalRatings": 0,
+      "averageRating": 0,
+      "offer": {
+        "en": "Free shipping on orders over $50",
+        "ar": "شحن مجاني للطلبات فوق 50 دولار"
+      },
+      "price": 27,
+      "dateAdded": "2025-12-13",
+      "totalSold": 95,
+      "inStock": true,
+      "tags": [
+        "recovery",
+        "post-workout",
+        "muscle",
+        "repair"
+      ]
+    },
+    {
+      "id": "7",
+      "name": {
+        "en": "LeanFuel™ Fat Burner & Metabolism Support",
+        "ar": "لين فيول™ حارق للدهون وداعم للأيض"
+      },
+      "disc": {
+        "en": "Supports fat loss while preserving muscle",
+        "ar": "يدعم حرق الدهون مع الحفاظ على الكتلة العضلية"
+      },
+      "category": {
+        "en": "Sports Nutrition",
+        "ar": "التغذية الرياضية"
+      },
+      "reviews": [],
+      "totalRatings": 0,
+      "averageRating": 0,
+      "offer": {
+        "en": "First-time buyer discount: 10% off",
+        "ar": "خصم 10% للمشتري لأول مرة"
+      },
+      "price": 32,
+      "dateAdded": "2025-12-12",
+      "totalSold": 140,
+      "inStock": true,
+      "tags": [
+        "fat-burner",
+        "metabolism",
+        "weight-loss",
+        "lean"
+      ]
+    },
+    {
+      "id": "8",
+      "name": {
+        "en": "HydroCharge™ Electrolyte Hydration Mix",
+        "ar": "هايدرو شارج™ مزيج إلكتروليتات للترطيب"
+      },
+      "disc": {
+        "en": "Optimal hydration during intense training",
+        "ar": "ترطيب مثالي أثناء التدريبات المكثفة"
+      },
+      "category": {
+        "en": "Sports Nutrition",
+        "ar": "التغذية الرياضية"
+      },
+      "reviews": [],
+      "totalRatings": 0,
+      "averageRating": 0,
+      "offer": {
+        "en": "Try sample size for $5",
+        "ar": "جرب العينة بسعر 5 دولارات"
+      },
+      "price": 18,
+      "dateAdded": "2025-12-11",
+      "totalSold": 300,
+      "inStock": true,
+      "tags": [
+        "hydration",
+        "electrolytes",
+        "water",
+        "sports"
+      ]
+    },
+    {
+      "id": "9",
+      "name": {
+        "en": "ZenPro™ Collagen + Joint Support",
+        "ar": "زين برو™ كولاجين ودعم المفاصل"
+      },
+      "disc": {
+        "en": "Promotes joint health and skin elasticity",
+        "ar": "يعزز صحة المفاصل ومرونة البشرة"
+      },
+      "category": {
+        "en": "Sports Nutrition",
+        "ar": "التغذية الرياضية"
+      },
+      "reviews": [],
+      "totalRatings": 0,
+      "averageRating": 0,
+      "offer": {
+        "en": "Bundle with any protein – save $7",
+        "ar": "اشترِه مع أي بروتين ووفّر 7 دولارات"
+      },
+      "price": 26,
+      "dateAdded": "2025-12-10",
+      "totalSold": 75,
+      "inStock": true,
+      "tags": [
+        "collagen",
+        "joints",
+        "skin",
+        "beauty"
+      ]
+    },
+    {
+      "id": "10",
+      "name": {
+        "en": "UltraCasein™ Nighttime Protein",
+        "ar": "ألترا كازين™ بروتين ليلي"
+      },
+      "disc": {
+        "en": "Slow-digesting protein for overnight recovery",
+        "ar": "بروتين بطيء الهضم للتعافي أثناء الليل"
+      },
+      "category": {
+        "en": "Sports Nutrition",
+        "ar": "التغذية الرياضية"
+      },
+      "reviews": [],
+      "totalRatings": 0,
+      "averageRating": 0,
+      "offer": {
+        "en": "Night pack: 2 for the price of 1",
+        "ar": "حزمة الليل: اشترِ اثنين بسعر واحد"
+      },
+      "price": 29,
+      "dateAdded": "2025-12-09",
+      "totalSold": 110,
+      "inStock": true,
+      "tags": [
+        "casein",
+        "night",
+        "slow-protein",
+        "recovery"
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "id": "review1",
+      "productId": "1",
+      "username": "hatem",
+      "rating": 4,
+      "comment": "Great product! Really helped with my workouts.",
+      "date": "2024-01-15"
+    },
+    {
+      "id": "review2",
+      "productId": "1",
+      "username": "ali",
+      "rating": 5,
+      "comment": "Best protein I've ever used. Mixes well and tastes great!",
+      "date": "2024-01-18"
+    },
+    {
+      "id": "review3",
+      "productId": "2",
+      "username": "ahmed",
+      "rating": 4,
+      "comment": "Perfect for my vegan diet. Good taste and texture.",
+      "date": "2024-01-20"
+    },
+    {
+      "id": "review4",
+      "productId": "3",
+      "username": "layla",
+      "rating": 5,
+      "comment": "Perfect during workouts! Really helps with endurance.",
+      "date": "2024-01-22"
+    },
+    {
+      "id": "2a67",
+      "productId": "1",
+      "username": "hatem",
+      "rating": 4,
+      "comment": "its good",
+      "date": "2024-01-23"
+    },
+    {
+      "id": "9c5a",
+      "productId": "1",
+      "username": "mohamed-ad",
+      "rating": 4,
+      "comment": "thake you",
+      "date": "2024-01-26"
+    },
+    {
+      "id": "88fc",
+      "productId": "5",
+      "username": "mohamed-ad",
+      "rating": 5,
+      "comment": "perfect",
+      "date": "28/11/2025"
+    },
+    {
+      "id": "187f",
+      "productId": "2",
+      "username": "mohamed-ad",
+      "rating": 4,
+      "comment": "good",
+      "date": "30/11/2025"
+    },
+    {
+      "id": "51ae",
+      "productId": "1",
+      "username": "mohamed-ad",
+      "rating": 4,
+      "comment": "nice",
+      "date": "31/11/2025"
+    }
+  ],
+  "orders": [
+    {
+      "id": "order1",
+      "userId": "5cc7",
+      "orderDate": "2024-01-10",
+      "totalAmount": 75,
+      "status": "delivered",
+      "items": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "price": 25
+        },
+        {
+          "productId": "3",
+          "quantity": 1,
+          "price": 22
+        }
+      ]
+    },
+    {
+      "id": "order2",
+      "userId": "b9b1",
+      "orderDate": "2024-01-12",
+      "totalAmount": 28,
+      "status": "delivered",
+      "items": [
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 28
+        }
+      ]
+    }
+  ],
+  "wishlists": [
+    {
+      "id": "wish1",
+      "userId": "5cc7",
+      "productId": "5",
+      "addedDate": "2024-01-14"
+    },
+    {
+      "id": "wish2",
+      "userId": "b9b1",
+      "productId": "8",
+      "addedDate": "2024-01-16"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat1",
+      "name": {
+        "en": "Sports Nutrition",
+        "ar": "التغذية الرياضية"
+      },
+      "description": {
+        "en": "Supplements for athletes and fitness enthusiasts",
+        "ar": "مكملات غذائية للرياضيين ورواد اللياقة"
+      },
+      "icon": "bi-dumbbell"
+    },
+    {
+      "id": "cat2",
+      "name": {
+        "en": "Protein",
+        "ar": "البروتين"
+      },
+      "description": {
+        "en": "Various protein supplements",
+        "ar": "مكملات البروتين المختلفة"
+      },
+      "icon": "bi-egg"
+    },
+    {
+      "id": "cat3",
+      "name": {
+        "en": "Pre-Workout",
+        "ar": "قبل التمرين"
+      },
+      "description": {
+        "en": "Energy and focus boosters",
+        "ar": "معززات الطاقة والتركيز"
+      },
+      "icon": "bi-lightning"
+    }
+  ]
+}

@@ -4,6 +4,9 @@
   "scripts": {
     "start": "node server.js"
   },
+  "engines": {
+  "node": "18.x"
+},
   "dependencies": {
     "json-server": "^0.17.0"
   }
